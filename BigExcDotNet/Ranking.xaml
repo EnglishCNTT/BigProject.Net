@@ -1,0 +1,27 @@
+﻿<Window x:Class="BigExcDotNet.Ranking"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BigExcDotNet"
+        mc:Ignorable="d"
+        Title="Ranking" Height="700" Width="500" Background = "#FFEAEEF3">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\Icons\Cup.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Image x:Name="image" Margin="-182,-97,-29,363" Source="H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\Icons\record.png"/>
+        <ListView x:Name="rank_table" HorizontalAlignment="Left" Height="405" VerticalAlignment="Top" Width="175" FontSize="16" Margin="10,194,0,0" Foreground="#FFFF0808" >
+            <ListView.Background>
+                <ImageBrush ImageSource="H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\Icons\topboard.png" Stretch="UniformToFill"/>
+            </ListView.Background>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Time Record" DisplayMemberBinding="{Binding Path=TimeRecord}" Width="116px" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+    </Grid>
+</Window>

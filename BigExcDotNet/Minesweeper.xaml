@@ -1,0 +1,33 @@
+﻿<Window x:Class="BigExcDotNet.Minesweeper"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BigExcDotNet"
+        mc:Ignorable="d"
+        Title="Minesweeper" Icon="H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\Icons\bomb.png" SizeToContent="WidthAndHeight"
+        ResizeMode="NoResize" Width="159" Height="123">
+    <DockPanel x:Name="dPanel">
+        <Menu DockPanel.Dock="Top" x:Name="Top"  >
+            <MenuItem Header="Menu">
+                <MenuItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="DeepSkyBlue" Offset="0"/>
+                        <GradientStop Color="DeepSkyBlue" Offset="0.5"/>
+                        <GradientStop Color="CadetBlue" Offset="1"/>
+                    </LinearGradientBrush>
+                </MenuItem.Background>
+                <MenuItem Header="Easy" Click="restartClick"/>
+                <MenuItem Header="Medium" Click="restartClick"/>
+                <MenuItem Header="Hard" Click="restartClick"/>
+                <Separator />
+                <MenuItem Header="Close" Click="closeClick"/>
+            </MenuItem>
+            <Label Name="time1" Content="Time : " FontFamily="Tempus Sans ITC" FontWeight="Bold" Background="{x:Null}" />
+            <Label Name="time" Content="Label" FontFamily="Tempus Sans ITC" FontWeight="Bold" Background="{x:Null}" />
+        </Menu>
+        <Grid x:Name="mainGrid" Margin="15" ShowGridLines="False">
+
+        </Grid>
+    </DockPanel>
+</Window>

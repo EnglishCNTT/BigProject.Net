@@ -1,0 +1,63 @@
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.exe
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.deps.json
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.runtimeconfig.json
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.dll
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.pdb
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.csproj.AssemblyReference.cache
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet_MarkupCompile.cache
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet_MarkupCompile.lref
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.g.resources
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.AssemblyInfoInputs.cache
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.AssemblyInfo.cs
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.csproj.CoreCompileInputs.cache
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.dll
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\refint\BigExcDotNet.dll
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.pdb
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.genruntimeconfig.cache
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\ref\BigExcDotNet.dll
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\Minesweeper.g.cs
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\Minesweeper.baml
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\EnglishPC\source\repos\BigExcDotNet\BigExcDotNet\obj\Debug\net6.0-windows\MainWindow.baml
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.exe
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.deps.json
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.runtimeconfig.json
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\BigExcDotNet.pdb
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.csproj.AssemblyReference.cache
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\Minesweeper.g.cs
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\App.g.cs
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet_MarkupCompile.cache
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet_MarkupCompile.lref
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\MainWindow.baml
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\Minesweeper.baml
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.g.resources
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.AssemblyInfoInputs.cache
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.AssemblyInfo.cs
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.csproj.CoreCompileInputs.cache
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\refint\BigExcDotNet.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.pdb
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.genruntimeconfig.cache
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\ref\BigExcDotNet.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\Ranking.g.cs
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\EntityFramework.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\Ranking.baml
+H:\Visual Code\Big-Excercise-.Net\BigExcDotNet\obj\Debug\net6.0-windows\BigExcDotNet.csproj.CopyComplete
